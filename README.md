@@ -3,4 +3,4 @@ Sample repo
 
 Hey!
 
-I am a newly Certified Data Egineer who is exploring Git & Github.
+I am a new user who is exploring Git & Github.
